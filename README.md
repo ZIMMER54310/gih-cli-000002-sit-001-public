@@ -1,2 +1,3 @@
-# Acti'Dem - Production directe
-Site public Acti'Dem pour actidem.fr.
+# Acti'Dem - production statique directe
+
+Site public immédiat pour actidem.fr.

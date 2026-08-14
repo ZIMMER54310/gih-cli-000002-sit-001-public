@@ -1,1 +1,9 @@
-{"navigationFallback":{"rewrite":"/index.html"},"routes":[{"route":"/espace-prive/*","allowedRoles":["authenticated"]}],"responseOverrides":{"401":{"redirect":"/.auth/login/aad","statusCode":302}}}
+{
+  "navigationFallback": { "rewrite": "/index.html" },
+  "routes": [
+    { "route": "/espace-prive/*", "allowedRoles": ["authenticated"] }
+  ],
+  "responseOverrides": {
+    "401": { "redirect": "/.auth/login/aad", "statusCode": 302 }
+  }
+}

@@ -1,2 +1,2 @@
 # API Acti'Dem
-Dossier conservé pour les futures Azure Functions.
+Dossier réservé aux futures API Azure Functions.
