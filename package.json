@@ -1,1 +1,0 @@
-{"name":"actidem-production-directe","version":"1.0.0","private":true,"type":"module","scripts":{"build":"vite build","dev":"vite --host 0.0.0.0","preview":"vite preview"},"dependencies":{"@vitejs/plugin-react":"latest","vite":"latest","react":"latest","react-dom":"latest","lucide-react":"latest"},"devDependencies":{}}
